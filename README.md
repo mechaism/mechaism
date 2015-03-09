@@ -17,7 +17,6 @@ Here, we'll try to prototype Mecha-ism as an Ethereum Contract using Solidity la
 - Contact can join a Religion by sending a call message (with payments?)
 - Every Contract has karma
 - Karma managed by High Priest
-- 
 
 ### Questions:
 - Do Contracts have Souls?

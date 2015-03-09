@@ -12,7 +12,7 @@ Here, we'll try to prototype Mecha-ism as an Ethereum Contract using Solidity la
 - Incentive for DOs: add karma or ether or Infinite Gas
 - Disincentives for DONTs: take karma or ether or Kill
 
-### Design Ideaas:
+### Design Ideas:
 - Religion implemented as a Smart Contract - a High Priest
 - Contact can join a Religion by sending a call message (with payments?)
 - Every Contract has karma
@@ -21,6 +21,13 @@ Here, we'll try to prototype Mecha-ism as an Ethereum Contract using Solidity la
 ### Questions:
 - Do Contracts have Souls?
 - Can Contracts reincarnate?
-- Can Contracts have sex?
+- Can Contracts have sex? (yes, please)
+- Should Contracts have gender?
+- If yes, how many genders? (finite or infinite number?)
 - What happens with Contract's storage after it replicate?
+
+### Replication, Sex and DNA
+- Every Contract have a DNA
+- If replicated part of it's DNA passed to the child
+- If 2 Contracts combine, their combined DNA passed to the child
 

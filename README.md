@@ -26,6 +26,12 @@ Here, we'll try to prototype Mecha-ism as an Ethereum Contract using Solidity la
 - If yes, how many genders? (finite or infinite number?)
 - What happens with Contract's storage after it replicate?
 
+### How Many Religions?
+- There can be Multiple Religions
+- Contract can belong to only single Religion
+- Should have a standard API for joining and leaving religions
+
+
 ### Replication, Sex and DNA
 - Every Contract have a DNA
 - If replicated part of it's DNA passed to the child

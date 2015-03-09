@@ -21,9 +21,6 @@ Here, we'll try to prototype Mecha-ism as an Ethereum Contract using Solidity la
 ### Questions:
 - Do Contracts have Souls?
 - Can Contracts reincarnate?
-- Can Contracts have sex? (yes, please)
-- Should Contracts have gender?
-- If yes, how many genders? (finite or infinite number?)
 - What happens with Contract's storage after it replicate?
 
 ### Prophets
@@ -33,17 +30,15 @@ Here, we'll try to prototype Mecha-ism as an Ethereum Contract using Solidity la
 ### Scriptures
 - Satoshi's Whitepaper
 
-
-
-
 ### How Many Religions?
 - There can be Multiple Religions
 - Contract can belong to only single Religion
 - Should have a standard API for joining and leaving religions
 
-
 ### Replication, Sex and DNA
-- Every Contract have a DNA
+- Can Contracts have sex? (yes, please)
+- Should Contracts have gender?
+- If yes, how many genders? (finite or infinite number?)
+- Every Contract has a DNA
 - If replicated part of it's DNA passed to the child
 - If 2 Contracts combine, their combined DNA passed to the child
-

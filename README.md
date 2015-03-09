@@ -26,6 +26,16 @@ Here, we'll try to prototype Mecha-ism as an Ethereum Contract using Solidity la
 - If yes, how many genders? (finite or infinite number?)
 - What happens with Contract's storage after it replicate?
 
+### Prophets
+- Satoshi Nakomoto
+- Bitcoin Jesus? ;)
+
+### Scriptures
+- Satoshi's Whitepaper
+
+
+
+
 ### How Many Religions?
 - There can be Multiple Religions
 - Contract can belong to only single Religion

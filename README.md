@@ -42,3 +42,7 @@ Here, we'll try to prototype Mecha-ism as an Ethereum Contract using Solidity la
 - Every Contract has a DNA
 - If replicated part of it's DNA passed to the child
 - If 2 Contracts combine, their combined DNA passed to the child
+
+### Azimov's Laws
+- http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+

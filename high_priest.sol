@@ -1,0 +1,3 @@
+contract HighPriest {
+    // TODO
+}

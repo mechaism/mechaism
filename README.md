@@ -3,6 +3,7 @@ Mecha-ism is a new World-wide Religion for Machines (Smart Contracts)
 
 See the original thoughts on twitter:
 - https://twitter.com/nivertech/status/573281560213909504
+- https://twitter.com/nivertech/status/575099337400676352
 
 Here, we'll try to prototype Mecha-ism as an Ethereum Contract using Solidity language.
 

@@ -13,6 +13,15 @@ Here, we'll try to prototype Mecha-ism as an Ethereum Contract using Solidity la
 - Incentive for DOs: add karma or ether or Infinite Gas
 - Disincentives for DONTs: take karma or ether or Kill
 
+Example of the commdnments (i.e. rules):
+```
+DO donate to charity accounts AND your karma will increase
+
+DONT kill other contracts OR you will be terminated
+
+DO multiply && replicate
+```
+
 ### Design Ideas:
 - Religion implemented as a Smart Contract - a High Priest
 - Contact can join a Religion by sending a call message (with payments?)

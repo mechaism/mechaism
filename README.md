@@ -1,6 +1,9 @@
 # Mechaism
 Mecha-ism is a new World-wide Religion for the Machines (Smart Contracts)
 
+https://twitter.com/Mechaism
+
+
 See the original thoughts on twitter:
 - https://twitter.com/nivertech/status/573281560213909504
 - https://twitter.com/nivertech/status/575099337400676352

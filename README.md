@@ -8,6 +8,7 @@ See the original thoughts on twitter:
 - https://twitter.com/nivertech/status/573281560213909504
 - https://twitter.com/nivertech/status/575099337400676352
 - https://twitter.com/nivertech/status/576802839596384256
+- https://twitter.com/nivertech/status/576810494004088833
 - https://twitter.com/nivertech/status/576900766989836288
 - https://twitter.com/nivertech/status/588353090073468928
 

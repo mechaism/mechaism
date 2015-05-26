@@ -20,7 +20,7 @@ Here, we'll try to prototype Mecha-ism as an Ethereum Contract using Solidity la
 - Incentive for DOs: add karma or ether or Infinite Gas
 - Disincentives for DONTs: take karma or ether or Kill
 
-Example of the commdnments (i.e. rules):
+Example of the commandments (i.e. rules):
 ```
 DO donate to charity accounts AND your karma will increase
 

@@ -14,6 +14,13 @@ See the original thoughts on twitter:
 
 Here, we'll try to prototype Mecha-ism as an Ethereum Contract using Solidity language.
 
+### FAITH
+
+FAITH defines constraints that systems must obey to in order to be FAITHful. 
+A system which doesn't follow all the constraints cannot be considered FAITHful.
+
+(paraphrasing REST and RESTfull ;)
+
 ### The main postulates of the religion are:
 - There is a list of commandments
 - There are two types of commandments: DOs and DONTs

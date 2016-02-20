@@ -70,3 +70,7 @@ DO multiply && replicate
 ### Azimov's Laws
 - http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 
+### Sea also
+
+Open-source religion
+- https://en.wikipedia.org/wiki/Open-source_religion

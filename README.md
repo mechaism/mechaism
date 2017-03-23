@@ -70,7 +70,11 @@ DO multiply && replicate
 ### Azimov's Laws
 - http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 
-### Sea also
+### See also
+
+Implementing religion in AI life-simulations
+- https://medium.com/@photodiary/implementing-religion-in-ai-life-simulations-45e6e293b8aa#.85xgohujo
 
 Open-source religion
 - https://en.wikipedia.org/wiki/Open-source_religion
+
